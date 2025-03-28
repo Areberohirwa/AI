@@ -1,0 +1,9 @@
+{
+    "name": "sd/student-ai",
+    "description": "Project to business model",
+    "minimum-stability": "stable",
+    "require": {
+        "stripe/stripe-php": "^16.6",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
